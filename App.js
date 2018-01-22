@@ -16,7 +16,7 @@ import {
 import FlipCard from "react-native-flip-card";
 import Icon from "react-native-vector-icons/FontAwesome";
 
-import { cards } from "./data.json";
+import { cards } from "./data";
 
 const { height } = Dimensions.get("window");
 const CARD_HEIGHT = 0.8 * height;
