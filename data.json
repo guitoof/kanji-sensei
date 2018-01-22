@@ -1,44 +1,84 @@
 {
   "cards": [
     {
-      "face": "一",
-      "back": "1"
+      "front": "1",
+      "back": "一"
     },
     {
-      "face": "二",
-      "back": "2"
+      "front": "2",
+      "back": "二"
     },
     {
-      "face": "三",
-      "back": "3"
+      "front": "3",
+      "back": "三"
     },
     {
-      "face": "四",
-      "back": "4"
+      "front": "4",
+      "back": "四"
     },
     {
-      "face": "五",
-      "back": "5"
+      "front": "5",
+      "back": "五"
     },
     {
-      "face": "六",
-      "back": "6"
+      "front": "6",
+      "back": "六"
     },
     {
-      "face": "七",
-      "back": "7"
+      "front": "7",
+      "back": "七"
     },
     {
-      "face": "八",
-      "back": "8"
+      "front": "8",
+      "back": "八"
     },
     {
-      "face": "九",
-      "back": "9"
+      "front": "9",
+      "back": "九"
     },
     {
-      "face": "十",
-      "back": "10"
+      "front": "10",
+      "back": "十"
+    },
+    {
+      "front": "maintenant",
+      "back": "今"
+    },
+    {
+      "front": "personne",
+      "back": "人"
+    },
+    {
+      "front": "jour, journée",
+      "back": "日"
+    },
+    {
+      "front": "mois, lune",
+      "back": "月"
+    },
+    {
+      "front": "feu",
+      "back": "火"
+    },
+    {
+      "front": "eau",
+      "back": "水"
+    },
+    {
+      "front": "arbre, bois",
+      "back": "木"
+    },
+    {
+      "front": "or, argent, monnaie",
+      "back": "金"
+    },
+    {
+      "front": "terre, sol",
+      "back": "土"
+    },
+    {
+      "front": "origine, source, vrai, livre",
+      "back": "本"
     }
   ]
 }

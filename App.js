@@ -6,14 +6,16 @@
 
 import React, { Component } from "react";
 import {
-  Button,
   Platform,
   StyleSheet,
   Text,
+  TouchableOpacity,
   View,
   Dimensions
 } from "react-native";
 import FlipCard from "react-native-flip-card";
+import Icon from "react-native-vector-icons/FontAwesome";
+
 import { cards } from "./data.json";
 
 const { height } = Dimensions.get("window");
@@ -42,8 +44,8 @@ export default class App extends Component<{}> {
             perspective={1000}
             style={styles.flipCard}
           >
-            <View style={[styles.card, styles.face]}>
-              <Text style={styles.faceText}>{card.face}</Text>
+            <View style={[styles.card, styles.front]}>
+              <Text style={styles.frontText}>{card.front}</Text>
             </View>
             <View style={[styles.card, styles.back]}>
               <Text style={styles.backText}>{card.back}</Text>
@@ -51,11 +53,9 @@ export default class App extends Component<{}> {
           </FlipCard>
         </View>
         <View style={styles.footer}>
-          <Button
-            style={{ fontSize: 42 }}
-            title="Next"
-            onPress={this.shuffle}
-          />
+          <TouchableOpacity onPress={this.shuffle}>
+            <Icon name="refresh" size={60} color="black" />
+          </TouchableOpacity>
         </View>
       </View>
     );
@@ -73,7 +73,8 @@ const styles = StyleSheet.create({
   },
   footer: {
     flexDirection: "row",
-    justifyContent: "center"
+    justifyContent: "center",
+    padding: 20
   },
   flipCard: {
     height: CARD_HEIGHT,
@@ -85,16 +86,16 @@ const styles = StyleSheet.create({
     alignItems: "center",
     borderRadius: 8
   },
-  face: {
+  front: {
     backgroundColor: "#e9eeff"
   },
   back: {
-    backgroundColor: "#dadef0"
+    backgroundColor: "#e9eeff"
   },
-  faceText: {
-    fontSize: 80
+  frontText: {
+    fontSize: 42
   },
   backText: {
-    fontSize: 42
+    fontSize: 80
   }
 });
