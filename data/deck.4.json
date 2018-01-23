@@ -1,0 +1,42 @@
+[
+  {
+    "front": "gauche",
+    "back": "左"
+  },
+  {
+    "front": "droite",
+    "back": "右"
+  },
+  {
+    "front": "enfant",
+    "back": "子"
+  },
+  {
+    "front": "homme, masculin",
+    "back": "男"
+  },
+  {
+    "front": "femme, fille, féminin",
+    "back": "女"
+  },
+  {
+    "front": "voiture, véhicule",
+    "back": "車"
+  },
+  {
+    "front": "quoi, quel, combien",
+    "back": "何"
+  },
+  {
+    "front": "blanc",
+    "back": "白"
+  },
+  {
+    "front": "haut, cher",
+    "back": "高"
+  },
+  {
+    "front": "long, chef",
+    "back": "長"
+  }
+]

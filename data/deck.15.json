@@ -1,0 +1,42 @@
+[
+  {
+    "front": "est",
+    "back": "東"
+  },
+  {
+    "front": "ouest",
+    "back": "西"
+  },
+  {
+    "front": "sud",
+    "back": "南"
+  },
+  {
+    "front": "nord",
+    "back": "北"
+  },
+  {
+    "front": "air, ciel",
+    "back": "空"
+  },
+  {
+    "front": "vent",
+    "back": "風"
+  },
+  {
+    "front": "matin",
+    "back": "朝"
+  },
+  {
+    "front": "nuit",
+    "back": "夜"
+  },
+  {
+    "front": "soir, crépuscule",
+    "back": "夕"
+  },
+  {
+    "front": "direction, côté, méthode, carré",
+    "back": "方"
+  }
+]

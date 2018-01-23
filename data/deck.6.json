@@ -1,0 +1,42 @@
+[
+  {
+    "front": "cent",
+    "back": "百"
+  },
+  {
+    "front": "mille",
+    "back": "千"
+  },
+  {
+    "front": "dix mille",
+    "back": "万"
+  },
+  {
+    "front": "yen",
+    "back": "円"
+  },
+  {
+    "front": "avant, plus tôt",
+    "back": "先"
+  },
+  {
+    "front": "vivre, naître, produire, nouveau",
+    "back": "生"
+  },
+  {
+    "front": "étude",
+    "back": "学"
+  },
+  {
+    "front": "école",
+    "back": "校"
+  },
+  {
+    "front": "père",
+    "back": "父"
+  },
+  {
+    "front": "mère",
+    "back": "母"
+  }
+]

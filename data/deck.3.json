@@ -1,0 +1,42 @@
+[
+  {
+    "front": "montagne",
+    "back": "山"
+  },
+  {
+    "front": "rivière, fleuve",
+    "back": "川"
+  },
+  {
+    "front": "dessus, haut, lever, monter",
+    "back": "上"
+  },
+  {
+    "front": "sous, bas, baisser, descendre",
+    "back": "下"
+  },
+  {
+    "front": "centre, milieu, moyenne, dedans",
+    "back": "中"
+  },
+  {
+    "front": "important, grand",
+    "back": "大"
+  },
+  {
+    "front": "petit",
+    "back": "小"
+  },
+  {
+    "front": "an, année",
+    "back": "年"
+  },
+  {
+    "front": "aller",
+    "back": "行"
+  },
+  {
+    "front": "venir, prochain",
+    "back": "来"
+  }
+]

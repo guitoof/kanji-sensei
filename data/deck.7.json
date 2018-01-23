@@ -1,0 +1,42 @@
+[
+  {
+    "front": "je, moi",
+    "back": "私"
+  },
+  {
+    "front": "nom",
+    "back": "名"
+  },
+  {
+    "front": "avant, auparavant, devant",
+    "back": "前"
+  },
+  {
+    "front": "derrière, après, plus tard",
+    "back": "後"
+  },
+  {
+    "front": "midi",
+    "back": "午"
+  },
+  {
+    "front": "chaque, tous les -",
+    "back": "毎"
+  },
+  {
+    "front": "heure, temps, moment",
+    "back": "時"
+  },
+  {
+    "front": "durée, espace, intervalle",
+    "back": "間"
+  },
+  {
+    "front": "minute, part, comprendre, séparer, diviser",
+    "back": "分"
+  },
+  {
+    "front": "moitié, milieu, demi",
+    "back": "半"
+  }
+]

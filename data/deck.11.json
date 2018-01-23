@@ -1,0 +1,42 @@
+[
+  {
+    "front": "acheter",
+    "back": "買"
+  },
+  {
+    "front": "vendre",
+    "back": "売"
+  },
+  {
+    "front": "pas, marcher",
+    "back": "歩"
+  },
+  {
+    "front": "article, produits",
+    "back": "品"
+  },
+  {
+    "front": "objet, chose",
+    "back": "物"
+  },
+  {
+    "front": "force, puissance, pouvoir",
+    "back": "力"
+  },
+  {
+    "front": "son, bruit",
+    "back": "音"
+  },
+  {
+    "front": "musique, amusant, facile",
+    "back": "楽"
+  },
+  {
+    "front": "large, grand, vaste",
+    "back": "広"
+  },
+  {
+    "front": "goût, saveur",
+    "back": "味"
+  }
+]

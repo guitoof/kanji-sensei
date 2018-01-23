@@ -1,0 +1,42 @@
+[
+  {
+    "front": "lire",
+    "back": "読"
+  },
+  {
+    "front": "écriture, écrire",
+    "back": "書"
+  },
+  {
+    "front": "écouter, entendre, demander, être audible",
+    "back": "聞"
+  },
+  {
+    "front": "dire, mot parole",
+    "back": "言"
+  },
+  {
+    "front": "lever, dresser, se lever, se dresser",
+    "back": "立"
+  },
+  {
+    "front": "boire, avaler, prendre (des médicaments)",
+    "back": "飲"
+  },
+  {
+    "front": "ciel",
+    "back": "天"
+  },
+  {
+    "front": "gaz, air, souffle, atmosphère, esprit, sentiment",
+    "back": "気"
+  },
+  {
+    "front": "pluie",
+    "back": "雨"
+  },
+  {
+    "front": "électricité",
+    "back": "電"
+  }
+]
